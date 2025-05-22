@@ -28,7 +28,7 @@ git commit -m "Add index.html"
 
 **Commands:**
 
-git remote add origin https://github.com/<username>/local-git-repo.git
+git remote add origin https://github.com/Tuscaney/local-git-repo.git
 git push -u origin main
 
 ![Git Connect](Screenshots/git-connect.png)
