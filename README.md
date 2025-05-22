@@ -10,7 +10,7 @@ This project demonstrates working with Git and GitHub, including repository init
 ```bash
 git init
 
-![Git Init](Screenshots/git-init.png)
+![Git Init](https://raw.githubusercontent.com/Tuscaney/local-git-repo/dev/Screenshots/git-init.png)
 
 ## Part 2: Adding File and Committing Changes
 
