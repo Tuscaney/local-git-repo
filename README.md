@@ -10,7 +10,7 @@ This project demonstrates working with Git and GitHub, including repository init
 ```bash
 git init
 
-![Git Init](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-init.png)
+![Git Init](hhttps://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-init.png)
 
 ## Part 2: Adding File and Committing Changes
 
@@ -20,8 +20,8 @@ touch index.html
 git add index.html
 git commit -m "Add index.html"
 
-![Git Index](Screenshots/git-index.png)
-![Git Commit](Screenshots/git-commit.png)
+![Git Index](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-index.png)
+![Git Commit](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-commit.png)
 
 
 ## Part 3: Connecting to GitHub and Pushing Chnges
@@ -31,8 +31,8 @@ git commit -m "Add index.html"
 git remote add origin https://github.com/Tuscaney/local-git-repo.git
 git push -u origin main
 
-![Git Connect](Screenshots/git-connect.png)
-![Git Push](Screenshots/git-push.png)
+![Git Connect](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-connect.png)
+![Git Push](hhttps://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-push.png)
 
 
 ## Part 4: Created New Branch
@@ -44,8 +44,8 @@ git checkout dev
 # or
 # git switch -c dev
 
-![Git Branch](Screenshots/git-branch-dev.png)
-![Git Changes](Screenshots/git-changes.png)
+![Git Branch](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-branch-dev.png)
+![Git Changes](hhttps://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-changes.png)
 
 ## Part 5: Merge and Rebase
 
@@ -56,8 +56,8 @@ git merge dev
 git checkout dev
 git rebase main
 
-![Git Update](Screenshots/git-update.png)
-![Git Switch](Screenshots/git-switch.png)
+![Git Update](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-update.png)
+![Git Switch](https://raw.githubusercontent.com/Tuscaney/local-git-repo/main/Screenshots/git-switch.png)
 
 
 ## Notes
